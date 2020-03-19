@@ -46,7 +46,8 @@ Messaging that covers
 * Be explicit that this a new experience for most of us
 * Regularly repeat and reinforce norms
 * [Conference Call bingo cards](https://www.linkedin.com/posts/christophefoulon_thanks-elizabeth-wharton-this-is-perfect-activity-6643898638852505600-ESoT) 
-* Icebreakers? (See [point 4](https://trust.guidestar.org/running-effective-virtual-meetings-tools-and-technique-for-engagement) 
+* Icebreakers? (See [point 4](https://trust.guidestar.org/running-effective-virtual-meetings-tools-and-technique-for-engagement))
+* Be explicit about length of breaks - "we'll reconvene at the top of the hour", not "we'll take a few minute break."
 
 ### Have a tech support plan
 * Where do participants go for help with tech failures?
