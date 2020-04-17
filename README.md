@@ -1,5 +1,7 @@
 # Notes on Running a Virtual Workshop
 
+Reference 4 (Added April 17) is a 30 page ACM guide written in the early COVID era.
+
 # Before
 
 Consider stretching the workshop.  Long 
@@ -64,4 +66,5 @@ Messaging that covers
 1. https://www.learningrevolution.net/host-a-virtual-conference-tips-for-success/
 2. https://trust.guidestar.org/running-effective-virtual-meetings-tools-and-technique-for-engagement 
 3. https://medium.com/ashleycrutcher/tips-for-running-a-virtual-workshop-11bd7a42e70d 
+4. https://people.clarkson.edu/~jmatthew/acm/VirtualConferences_GuideToBestPractices_CURRENT.pdf 
 
