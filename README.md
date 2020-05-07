@@ -62,9 +62,10 @@ Messaging that covers
 * Ask that people spend time in the virtual hallway, assume goodwill and try to make it work
 
 
-# References
+# Interesting/Thought Provoking/References
 1. https://www.learningrevolution.net/host-a-virtual-conference-tips-for-success/
 2. https://trust.guidestar.org/running-effective-virtual-meetings-tools-and-technique-for-engagement 
 3. https://medium.com/ashleycrutcher/tips-for-running-a-virtual-workshop-11bd7a42e70d 
 4. https://people.clarkson.edu/~jmatthew/acm/VirtualConferences_GuideToBestPractices_CURRENT.pdf 
+5. https://www.asymmetricleadership.com/2020/05/04/towards-a-design-for-a-virtual-open-source-event/ 
 
