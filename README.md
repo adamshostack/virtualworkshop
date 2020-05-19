@@ -4,8 +4,7 @@ Reference 4 (Added April 17) is a 30 page ACM guide written in the early COVID e
 
 # Before
 
-Consider stretching the workshop.  Long 
-Do we want a full day or to try a few hours per day over a few days? (“By spacing out the learning over a longer period, there is a much greater chance that your attendees will have the opportunity to digest, review, reflect, and apply what they learn” see [point 9](https://www.learningrevolution.net/host-a-virtual-conference-tips-for-success/))
+Consider stretching the workshop. For example, do we want a full day or to try a few hours per day over a few days? (“By spacing out the learning over a longer period, there is a much greater chance that your attendees will have the opportunity to digest, review, reflect, and apply what they learn” see [point 9](https://www.learningrevolution.net/host-a-virtual-conference-tips-for-success/))
 
 
 Messaging that covers 
