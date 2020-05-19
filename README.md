@@ -67,4 +67,5 @@ Messaging that covers
 3. https://medium.com/ashleycrutcher/tips-for-running-a-virtual-workshop-11bd7a42e70d 
 4. https://people.clarkson.edu/~jmatthew/acm/VirtualConferences_GuideToBestPractices_CURRENT.pdf 
 5. https://www.asymmetricleadership.com/2020/05/04/towards-a-design-for-a-virtual-open-source-event/ 
+6. https://itrevolution.com/love-letter-to-conferences/ (Gene Kim, May 2020)
 
